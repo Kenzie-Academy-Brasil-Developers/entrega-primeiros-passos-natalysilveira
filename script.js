@@ -17,8 +17,8 @@ if(soma % 2 == 0){
     amigo1 = (soma / 2);
     amigo2 = (soma / 2);
 }
-console.log(amigo1)
-console.log(amigo2)
+console.log(`O total da compra foi ${soma} e eu pagarei ${amigo1} e meu amigo pagará ${amigo2}`)
+
 
 
 // Extra alert //
